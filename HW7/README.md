@@ -1,1 +1,1 @@
-
+In this homework, I learned how to analyze customer data from a marketing campaign. I practiced data cleaning by selecting only useful numerical features, standardizing them, and fixing missing values. The main task was using DBSCAN clustering to group similar customers together. I created and wrote a caption for various visualizations including histograms, scatter plots, and a t-SNE projection to understand these customer groups better.
